@@ -1,0 +1,61 @@
+/* Reset some default styles */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Header styling */
+header {
+    background-color: #afd5eb;
+    color: rgb(8, 5, 5);
+    text-align: center;
+    padding: 10px;
+}
+
+header img {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+/* Main content styling */
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #afd5eb;
+    color: rgb(8, 5, 5);
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    color: rgb(8, 5, 5);
+    text-decoration: none;
+}
+a:visited{
+    color: green;   
+}
+a:hover{
+    color:red;    
+}
+
+a:active{
+    color: blue;
+}
