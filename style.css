@@ -20,6 +20,10 @@ h1 {
     transition: transform 0.2s ease-in-out;
 }
 
+.profile-picture:hover{
+    transform: scale(1.1);
+}
+
 .data-container {
     font-size: 20px;
     margin-top: 20px;
