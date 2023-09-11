@@ -13,8 +13,7 @@ h1 {
 }
 
 .profile-picture {
-    height: 30%;
-    width: 20%;
+    max-width: 200px;
     border-radius: 50%;
     margin: 20px auto;
     border: 4px solid #fccb06;
